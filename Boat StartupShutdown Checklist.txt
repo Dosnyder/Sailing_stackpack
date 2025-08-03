@@ -1,0 +1,69 @@
+Boat StartupShutdown Checklist
+
+TBD skills: 
+-	Test regime for emergency tiller
+-	Fix/confirm ordering for steps related to shore power (see bottom)
+-	Master prop walk and reverse on Cataline 40. See link for exercises
+-	Man overboard drills
+
+1)	Mount/Dismount flag
+2)	Safety Equipment:
+a.	PFD 1x each, Fire extinguisher, Flares, Air horn/whistle, Flashlight, Radio
+b.	Check bilge for water. Locate and diagnose if present
+c.	Turn water tanks on/off if dealing with long absence
+3)	Review all windows from outside to ensure closed. Extra check knobs are tight. 
+4)	Main Power: toggle 3 red knobs near stateroom
+a.	Large knob is for engine battery charger
+b.	Two smaller red knobs are for 12v system??? Confirm this… 
+5)	Thru hulls: 
+a.	Stateroom
+i.	Engine intake on port side. Has larger piping and seacock. 
+ii.	DO NOT OPEN HEAD INLET. 
+b.	Main Cabin
+i.	In front of main head: Black for AC and refrigerator pumps
+1.	Recall main head on closed water system now. Option to open up bow head if desired. Close toilet and sink thru hulls if done. 
+ii.	Under sink: Reach down and pull up to drain main galley sink. 
+6)	Switches
+a.	After refrigerator thru hull, two red switches back of cabin. Currently installed in reverse. 
+b.	After water pressure is on, can hit water heater switch
+c.	Main panel:
+i.	Aux Light Panel (12v stuff wo lights, fan)
+ii.	After AC thru hull, red switch for AC
+iii.	After refrigerator thru hull, refrigerator switch
+iv.	VHF Switch, sailing instrument switches
+v.	If sailing at night, look up right lights for chosen course. 
+d.	Flip shore power and battery charger switches
+7)	Sails and stackpack
+a.	Zip main sail stackpack. Let out mainsheet so boom can be pulled to side for easier work. Do in marina or quiet conditions
+b.	Set reefing points if expected to need. 
+c.	Check genoa cars are logical for expected wind conditions
+8)	Cockpit
+a.	Turn off chart plotter
+b.	Cover instrument panels
+c.	Cover cockpit table
+9)	Engine Key, external plugs, and bumpers
+a.	Remove engine key from navigation desk and insert in cockpit 
+b.	Turn off electricity at dock switch, then disconnect two charging cables from dock and store in port lazarette
+c.	Remove bumpers as needed
+d.	Remove docking lines and cast off
+10)	Optional after cast off
+a.	From BVI 2025: open/shut waste thru hull when changing from marina and open waters
+b.	Tie fenders with a round turn and two half hitches
+
+
+-	Misc info
+o	Anatomy: Head.. Luff.. Tack Foot Clew Leech
+o	Regarding switches, leave “port cabin lts”, “stbd cabin lts”, and “night lts” on so you can flip aux or panel. The lights are daisy chained.
+
+
+-	TBD
+
+When unplugging from shore power,
+⁃	turn off two dock switches
+⁃	Turn off 3 Blue sea systems switches above the radio
+⁃	 —- battery charger charges engine
+⁃	Turn off shore power main breaker switch on right side of instrument panel
+⁃	—- charges house batteries
+⁃	Pull plugs
+	•		⁃	… more revision needed on this
+-	
